@@ -1,0 +1,49 @@
+.app{
+    display: flex;
+    flex-direction: row;
+}
+.exo{
+    background-color: grey;
+    padding: 10px;
+    border: 3px solid Black;
+    border-radius: 15px;
+}
+
+li{
+    list-style-type: none;  
+}
+ul{
+    padding: 0 25px;
+    border: 2px solid black;
+    height: 10rem;
+}
+.section{
+background-color: grey;
+}
+.div_info{
+
+}
+
+.div_effects{
+    display: flex;
+    flex-direction: row;
+}
+p{
+    text-decoration: underline;
+    
+}
+.p_effects{
+    /* margin-bottom: -20px; */
+}
+.p_posi{
+    margin-top:5px; 
+    color: blue;
+}
+.p_nega{
+margin-top:5px;
+    color:red;
+}
+.p_medi{
+margin-top:5px;
+    color:green;
+}
